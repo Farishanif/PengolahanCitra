@@ -1,3 +1,3 @@
 # PengolahanCitra
 
-#contain a simple code for image processing
+contain a simple code for image processing
